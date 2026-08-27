@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Coach Luca - Protocolo Glúteos Brasileños",
+  "description": "Quiz interativo do Protocolo Glúteos Brasileños - Treinamento e protocolo para glúteos com Coach Luca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
